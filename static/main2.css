@@ -1,0 +1,17 @@
+html, body{
+
+background-color: white;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: rgb(103, 207, 202);
+    border-radius: 25px;
+    padding: 20px;
+    
+}
+
+td{
+    text-align: center;
+}
